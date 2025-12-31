@@ -1,6 +1,6 @@
 ____________________________________________
 
-CONDITIONS GÉNÉRALES D’UTILISATION
+# CONDITIONS GÉNÉRALES D’UTILISATION
 
 ____________________________________________
 
