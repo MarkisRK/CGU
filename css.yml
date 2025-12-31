@@ -1,0 +1,51 @@
+:root {
+  --bg: #ffffff;
+  --text: #111111;
+  --title: #000000;
+}
+
+/* Mode sombre automatique */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0f1115;
+    --text: #e6e6e6;
+    --title: #ffffff;
+  }
+}
+
+/* Corps du document */
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+/* Contenu centré et largeur limitée */
+.main {
+  max-width: 800px;
+  margin: 48px 20px;
+}
+
+/* Titres */
+h1, h2, h3 {
+  color: var(--title);
+  margin-top: 2em;
+}
+
+/* Séparateurs */
+hr {
+  border: none;
+  border-top: 1px solid #888888;
+  margin: 40px 0;
+}
+
+/* Liens */
+a {
+  color: inherit;
+  text-decoration: underline;
+}
