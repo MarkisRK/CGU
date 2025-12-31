@@ -4,7 +4,6 @@
   --title: #000000;
 }
 
-/* Mode sombre automatique */
 @media (prefers-color-scheme: dark) {
   :root {
     --bg: #0f1115;
@@ -13,7 +12,6 @@
   }
 }
 
-/* Corps du document */
 body {
   background: var(--bg);
   color: var(--text);
@@ -25,26 +23,22 @@ body {
   justify-content: center;
 }
 
-/* Contenu centré et largeur limitée */
 .main {
   max-width: 800px;
   margin: 48px 20px;
 }
 
-/* Titres */
 h1, h2, h3 {
   color: var(--title);
   margin-top: 2em;
 }
 
-/* Séparateurs */
 hr {
   border: none;
   border-top: 1px solid #888888;
   margin: 40px 0;
 }
 
-/* Liens */
 a {
   color: inherit;
   text-decoration: underline;
