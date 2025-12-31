@@ -1,7 +1,3 @@
----
-layout: none
----
-
 <!-- Lien vers le CSS -->
 <link rel="stylesheet" href="style.css">
 
