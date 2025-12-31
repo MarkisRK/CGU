@@ -1,3 +1,8 @@
+---
+layout: none
+---
+
+<link rel="stylesheet" href="style.css">
 ____________________________________________
 
 # CONDITIONS GÉNÉRALES D’UTILISATION
