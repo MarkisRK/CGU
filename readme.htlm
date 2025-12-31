@@ -1,82 +1,21 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Conditions Générales d’Utilisation</title>
+____________________________________________
 
-  <style>
-    :root {
-      --bg: #ffffff;
-      --text: #111111;
-      --title: #000000;
-      --border: #e0e0e0;
-    }
+CONDITIONS GÉNÉRALES D’UTILISATION
 
-    @media (prefers-color-scheme: dark) {
-      :root {
-        --bg: #0f1115;
-        --text: #e6e6e6;
-        --title: #ffffff;
-        --border: #2a2d34;
-      }
-    }
+____________________________________________
 
-    body {
-      background: var(--bg);
-      color: var(--text);
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-      line-height: 1.6;
-      margin: 0;
-      padding: 0;
-    }
+Mise à jour : 31/12/2025
 
-    main {
-      max-width: 800px;
-      margin: 48px auto;
-      padding: 0 20px;
-    }
+En utilisant notre projet ou tout élément qui en est issu, VOUS ÊTES LIBRE DE :
+- **Partager**    copier, distribuer et communiquer  notre travail par tous moyens et sous tous formats
+- **Modifier**   remixer, transformer et créer à partir de notre travail 
 
-    h1, h2, h3 {
-      color: var(--title);
-      margin-top: 2em;
-    }
+SELON LES CONDITIONS SUIVANTES :
+- **Attribution**    Vous devez créditer le/les créateurs, le nom et un lien vers une page officielle du projet ( CurseForge, Modrinth, Planet Minecraft, ect…)
+- **Pas d’Utilisation Commerciale**   Vous n'êtes pas autorisés à faire un usage commercial de ce projet, tout ou partie des éléments le composant, à l’exception dans des contenus monétisés tels que vidéos, streams en direct ou articles de blog
 
-    hr {
-      border: none;
-      border-top: 1px solid var(--border);
-      margin: 40px 0;
-    }
+À NOTER :
+- Ces conditions figurant sur cette page prévalent sur toute autre page, fichier ou information relative aux conditions générales fournies ailleurs, y compris dans les fichiers du projet
+- Ces conditions peuvent être modifiées à tout moment
 
-    a {
-      color: inherit;
-      text-decoration: underline;
-    }
-  </style>
-</head>
-
-<body>
-  <main>
-    <h1>Conditions Générales d’Utilisation</h1>
-    <p><em>Dernière mise à jour : 1 janvier 2025</em></p>
-
-    <h2>1. Objet</h2>
-    <p>
-      Les présentes Conditions Générales d’Utilisation ont pour objet de définir
-      les modalités d’accès et d’utilisation du site.
-    </p>
-
-    <h2>2. Accès au site</h2>
-    <p>
-      Le site est accessible gratuitement à tout utilisateur disposant d’un accès
-      à internet.
-    </p>
-
-    <hr>
-
-    <p>
-      © 2025 – Tous droits réservés
-    </p>
-  </main>
-</body>
-</html>
+© 2025 MarkisRK — Tous droits réservés
