@@ -1,3 +1,11 @@
+---
+layout: none
+---
+
+<!-- Lien vers le CSS -->
+<link rel="stylesheet" href="style.css">
+
+<div class="main">
 ____________________________________________
 
 CONDITIONS GÉNÉRALES D’UTILISATION
@@ -18,4 +26,8 @@ SELON LES CONDITIONS SUIVANTES :
 - Ces conditions figurant sur cette page prévalent sur toute autre page, fichier ou information relative aux conditions générales fournies ailleurs, y compris dans les fichiers du projet
 - Ces conditions peuvent être modifiées à tout moment
 
+<hr>
+
 © 2025 MarkisRK — Tous droits réservés
+
+</div>
